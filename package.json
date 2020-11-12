@@ -1,0 +1,61 @@
+{
+  "name": "agile-bot-lp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve-prod": "vue-cli-service serve --mode production",
+    "serve-dev": "vue-cli-service serve --mode development",
+    "serve-staging": "vue-cli-service serve --mode staging",
+    "build": "vue-cli-service build",
+    "build-staging": "vue-cli-service build --mode staging",
+    "build-development": "vue-cli-service build --mode development",
+    "build-production": "vue-cli-service build --mode production",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bulma": "^0.7.2",
+    "connect": "^3.6.6",
+    "connect-history-api-fallback": "^1.5.0",
+    "express": "^4.16.3",
+    "serve-static": "^1.13.2",
+    "vue": "^2.5.22",
+    "vue-analytics": "^5.16.0",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-plugin-eslint": "^3.3.0",
+    "@vue/cli-service": "^3.3.1",
+    "vue-template-compiler": "^2.5.22",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-vue": "^4.7.1",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/airbnb"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
