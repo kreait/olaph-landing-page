@@ -1,4 +1,4 @@
-# agile-bot-lp
+# Olaph.io Landing Page
 
 ## Project setup
 ```
