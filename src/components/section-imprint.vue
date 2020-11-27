@@ -8,7 +8,7 @@
                 Oberescher Weg 7 <br />
                 53501 Grafschaft</p>
                 <h2>Represented by:</h2>
-                <p> kreait GmbH, vertreten durch Gowrynath Sivaganeshamoorthy und Markus Giordano</p>
+                <p> kreait GmbH, vertreten durch Gowrynath Sivaganeshamoorthy</p>
                 <h2>Contact:</h2>
                 <p>Telephone: +49 2641 8939580<br />
                 Telefax: +49 2641 8939589<br />
