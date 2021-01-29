@@ -9,7 +9,7 @@
           Sadly we have to inform you that Olaph is being shut down :( We are in the process of open sourcing
           the project though, so feel free to follow or contribute under
           <a class="has-text-white has-text-weight-bold"
-             href="https://github.com/olaph-io">https://github.com/olaph-io</a>
+             href="https://github.com/kreait/olaph-slack-app">https://github.com/kreait/olaph-slack-app</a>
         </p>
       </div>
       <div class="column is-4 is-offset-1 is-hidden-mobile">
