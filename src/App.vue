@@ -27,17 +27,6 @@
             href="https://kreait.com"
           >kreait</a><br />
         </p>
-        <p>
-          <a
-            class="bd-tw-button button is-primary"
-            href="https://twitter.com/Olaph_io"
-            target="_blank"
-          >
-            <span class="icon">
-              <i class="fab fa-twitter"></i>
-            </span>
-          </a>
-        </p>
       </div>
     </footer>
   </div>

@@ -22,38 +22,9 @@ export default new Router({
             component: Home
         },
         {
-            path: "/success",
-            name: "success",
-            component: () => import("./views/Success.vue")
-        }, {
-            path: "/beta",
-            name: "beta",
-            component: () => import("./views/Beta.vue")
-        },
-        {
-            path: "/error",
-            name: "error",
-            component: () => import("./views/Error.vue")
-        },
-        {
             path: "/imprint",
             name: "imprint",
             component: () => import("./views/Imprint.vue")
-        },
-        {
-            path: "/feedback",
-            name: "feedback",
-            component: () => import("./views/Feedback.vue")
-        },
-        {
-            path: "/dashboard",
-            name: "dashboard",
-            component: () => import("./views/Dashboard.vue")
-        },
-        {
-            path: "/admin",
-            name: "admin",
-            component: () => import("./views/Admin.vue")
         }
     ]
 });

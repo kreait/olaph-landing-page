@@ -3,13 +3,14 @@
     <div class="content columns is-vcentered hero-body">
       <div class="column is-4 is-offset-2 hero-width">
         <img class="is-hidden-tablet" src="@/assets/olaph_owl.svg" width="150"/>
-        <p class="is-size-2">This is <strong>Olaph</strong>.<br/>He wants to support your team with their
+        <p class="is-size-2">This was <strong>Olaph</strong>.<br/>He supported teams with their
           stand-ups.</p>
         <p class="is-size-6 has-background-danger has-text-white p-3">
-          Sadly we have to inform you that Olaph is being shut down :( We are in the process of open sourcing
-          the project though, so feel free to follow or contribute under
+          Olaph has been discontinued, but you can find the code that drove him at
           <a class="has-text-white has-text-weight-bold"
-             href="https://github.com/kreait/olaph-slack-app">https://github.com/kreait/olaph-slack-app</a>
+             href="https://github.com/kreait/olaph-slack-app">
+            https://github.com/kreait/olaph-slack-app
+          </a>
         </p>
       </div>
       <div class="column is-4 is-offset-1 is-hidden-mobile">
